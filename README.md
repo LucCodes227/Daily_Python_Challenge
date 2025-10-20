@@ -1,4 +1,4 @@
-# basic-python-practice-questions
+# daily python challenge
 practice questions for python (daily challenges)
 
 Each folder consist of 7 files, each file consist of 1 day challenge. This project will keep adding more questions. 
